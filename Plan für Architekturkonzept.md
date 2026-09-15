@@ -13,6 +13,22 @@
 > Wie bekommt das Handy die Daten? (Format, ) 
 
 > Sicherheitsaspekte in Webapp betrachten
+>
+> Erstellung eines Plans für ein Architekturkonzept
+
+- Ziel festlegen: Sensordaten im Browser der Smartphone App anzeigen
+
+- Wo entstehen die Daten? (cps I40 Modul)
+- Was ist ein CPS-I40-Modul, was tun sie?
+- Dokumentationen der Anlage prüfen
+- Wo kommen die Daten raus? (Schnittstelle?)
+- Wo und wie werden die Daten verarbeitet? (Gateway?, )
+
+--> Blockdiagramm
+
+- Kozept erweitern
+- Wie bekommt das Handy die Daten? (Format, ) 
+- Sicherheitsaspekte in Webapp betrachten
 
 
 
